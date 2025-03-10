@@ -7,7 +7,7 @@
 Summary:	Python datetimes made easy
 Name:		python-%{module}
 Version:	2.1.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages/Python
 Source0:	https://files.pythonhosted.org/packages/source/p/pendulum/%{module}-%{version}.tar.gz
